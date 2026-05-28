@@ -21,4 +21,8 @@ Este repositório foi criado para organizar e documentar as soluções dos desaf
 * **Arquivo:** `largura_tv.c`
 * **Descrição:** Exercício focado em lógica matemática e condicionais para calcular o dimensionamento ideal de telas baseado em resoluções e proporções.
 
+### 2. Two Sum
+* **Arquivo:** `two_sun.c`
+* **Descrição:**  Consiste em receber um array de números inteiros e um valor alvo. O objetivo é encontrar os índices dos dois números únicos no array cuja soma resulte exatamente no valor alvo.
+
 ---
